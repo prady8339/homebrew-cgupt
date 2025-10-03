@@ -6,7 +6,7 @@ class Cgupt < Formula
   license "MIT"
 
   def install
-    bin.install "cgupt"
+    bin.install "bin/cgupt"
   end
 
   test do
